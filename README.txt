@@ -1,0 +1,3 @@
+- Install ffmpeg and set it at the path
+- pip install -r requirements.txt
+- py main.py -i [input file] -o [output file]
